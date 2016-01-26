@@ -4,3 +4,5 @@ A quick and dirty script to help visualize the connections between API Gateways,
 This is mostly just a proof of concept that heavily relies on some specific syntax which allows the static code analysis portion to work properly. It also only supports python lambdas and node lambads using the Saws library for now.
 
 Output is a script to be fed into [GraphViz](http://www.graphviz.org).
+
+![Example graph](graph.png)
