@@ -1,0 +1,32 @@
+{
+    "email" : {
+        "color" : "cornsilk",
+        "shape" : "note",
+        "style" : "filled"
+    },
+    "topic" : {
+        "color" : "darkorange",
+        "shape" : "box",
+        "style" : "filled"
+    },
+    "lambda" : {
+        "color" : "darkgoldenrod1",
+        "shape" : "oval",
+        "style" : "filled"
+    },
+    "apigateway" : {
+        "color" : "firebrick",
+        "shape" : "invtrapezium",
+        "style" : "filled"
+    },
+    "dynamodb" : {
+        "color" : "dodgerblue",
+        "shape" : "doubleoctagon",
+        "style" : "filled"
+    },
+    "default" : {
+        "color" : "red",
+        "shape" : "octagon",
+        "style" : "filled"
+    }
+}
